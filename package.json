@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open"
+    "start": "node your-app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Oussama Belakhdar",
   "license": "ISC",
   "dependencies": {
     "cypress": "^4.2.0"
