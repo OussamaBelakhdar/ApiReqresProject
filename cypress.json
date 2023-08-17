@@ -1,5 +1,7 @@
 {
   "e2e": {
     "setupNodeEvents": "your-setup-node-events-function-here"
-  }
+  },
+    "integrationFolder": "cypress/e2e"
+
 }
