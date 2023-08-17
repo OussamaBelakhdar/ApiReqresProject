@@ -1,15 +1,8 @@
+const { defineConfig } = require("cypress");
 
-{
-  "e2e": {
-    "setupNodeEvents": 
-    
-  "baseUrl": "http://localhost:3000",
-  "integrationFolder": "cypress/integration",
-  "testFiles": "**/*.spec.js",
-  "viewportWidth": 1280,
-  "viewportHeight": 720,
-  "video": true
-    {
-}
-  }
-}
+module.exports = defineConfig({
+  e2e: {
+    setupNodeEvents(on, config) {
+    },
+     },
+});
