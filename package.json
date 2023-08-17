@@ -11,7 +11,7 @@
   "author": "Oussama Belakhdar",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^4.2.0"
+    "cypress": "^4.12.1"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.0.2"
